@@ -1,0 +1,4 @@
+for first question:
+https://github.com/EvanWilliams/CSC211/blob/master/DoodleBugs/src/Doodlebug.java
+https://boufama.myweb.cs.uwindsor.ca/212/labs/lab7-8/Question4Simulation.java
+
